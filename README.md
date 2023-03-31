@@ -6,11 +6,12 @@ Sending Emails to a group privately with their personal information is a very he
 <br>
 <h3>Flowchart</h3>
 
-![Screenshot (958)](https://user-images.githubusercontent.com/100609372/229198420-1db9937b-60de-4a0c-8b93-527635c5b890.png)
-
 <br>
 <br>
 <h3>Implementation</h3>
+![Screenshot (958)](https://user-images.githubusercontent.com/100609372/229198420-1db9937b-60de-4a0c-8b93-527635c5b890.png)
+
+![Screenshot (959)](https://user-images.githubusercontent.com/100609372/229198519-f45ad824-58f2-472a-a14d-7a75154ddcd0.png)
 
 <br>
 
